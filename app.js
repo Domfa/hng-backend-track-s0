@@ -10,7 +10,7 @@ app.get('/api/v1', (req, res) => {
   const response = {
     email: 'jjoshuadomfa@gmail.com',
     current_datetime: new Date().toISOString(),
-    github_url: 'https://github.com/Domfa/hng-backend-track-s0.git',
+    github_url: 'https://github.com/Domfa/hng-backend-track-s0',
   };
   res.status(200).json(response);
 });
