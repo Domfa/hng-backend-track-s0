@@ -14,7 +14,7 @@ This is a simple public API that returns basic information including the registe
 
 ### Endpoint
 
-- `GET /`
+- `GET /api/v1`
 
 ### Response Format (200 OK)
 
@@ -70,7 +70,7 @@ This is a simple public API that returns basic information including the registe
 
 ## Deployment
 
-The API is deployed on Render, and you can access it at https://hng-backend-track-s0.onrender.com.
+The API is deployed on Render, and you can access it at https://hng-backend-track-s0.onrender.com/api/v1.
 
 ## References
 
